@@ -2,7 +2,10 @@
   margin:0px;
   padding:0px;
 }
-
+.styleMah{
+  color:gold;
+  font-size: medium;
+}
 #octocat {
   display: block;
   width:384px;
